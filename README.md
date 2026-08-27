@@ -47,3 +47,5 @@ g++ src/main.cpp -I include -o bustotem
 ```Bash
 ./bustotem
 ```
+👩‍💻 Autora
+Ana Beatriz (Bia) | Estudante de Engenharia de Computação (UFC)
