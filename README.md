@@ -31,3 +31,19 @@ Pré-requisitos: Compilador GCC/G++ instalado.
 1. Clone o repositório:
 ```bash
 git clone [https://github.com/SEU_USUARIO/BusTotem.git](https://github.com/SEU_USUARIO/BusTotem.git)
+
+```
+2. Acesse a pasta do projeto:
+```Bash
+cd BusTotem
+```
+
+2. Compile o código apontando para a pasta de dependências:
+```Bash
+g++ src/main.cpp -I include -o bustotem
+```
+
+3. Execute o sistema:
+```Bash
+./bustotem
+```
