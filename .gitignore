@@ -1,0 +1,13 @@
+# Arquivos compilados
+*.o
+*.out
+*.exe
+*.app
+
+# Pastas de build
+build/
+bin/
+
+# Arquivos temporários do SO
+.DS_Store
+Thumbs.db
